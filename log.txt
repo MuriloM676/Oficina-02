@@ -1,0 +1,14 @@
+
+[26/07/2022 00:21:15] [INICIAR] Iniciando a aplicação.
+
+[26/07/2022 00:21:33] [EXIBIR] Exibindo alunos.
+
+[26/07/2022 00:21:39] [ENCERRAR] Encerrando a aplicação.
+
+[26/07/2022 00:22:16] [INICIAR] Iniciando a aplicação.
+
+[26/07/2022 00:22:32] [EXIBIR] Exibindo alunos.
+
+[26/07/2022 00:22:37] [EXCLUIR] Removendo aluno.
+
+[26/07/2022 00:22:39] [ENCERRAR] Encerrando a aplicação.
